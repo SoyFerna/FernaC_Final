@@ -20,7 +20,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 5%;
-        top: 455px;
+        top: 600px;
     }
 }
 @media (max-width: 575px){
@@ -30,6 +30,6 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 35%;
-        top: 455px;
+        top: 450px;
     }
 }
